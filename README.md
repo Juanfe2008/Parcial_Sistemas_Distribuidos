@@ -1,1 +1,0 @@
-# Parcial_Sistemas_Distribuidos

@@ -1,0 +1,51 @@
+{
+"facturas": [
+	{
+		"id" : 1,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : "Pepito Perez",
+		"telefono" : "3043772214"
+	},
+	{
+		"id" : 3,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : "Felipe Perensejo",
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 4,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : "Andres Paquito",
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 5,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : null,
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 6,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : null,
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 7,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : null,
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 8,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : "Mordekay",
+		"telefono" : "3065484382"
+	},
+	{
+		"id" : 9,
+		"fecha" : "2022-10-02T00:00:00.000Z",
+		"nombre_cliente" : "Rigby",
+		"telefono" : "3065484382"
+	}
+]}
